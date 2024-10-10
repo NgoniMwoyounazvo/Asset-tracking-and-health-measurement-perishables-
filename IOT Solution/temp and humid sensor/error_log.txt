@@ -1,0 +1,36 @@
+2023-11-09 22:24:52.229500 - Error reading sensor data: Checksum did not validate. Try again.
+2023-11-09 22:31:42.890017 - Error reading sensor data: A full buffer was not returned. Try again.
+2023-11-09 22:32:54.747401 - Error reading sensor data: A full buffer was not returned. Try again.
+2023-11-09 22:38:02.741840 - Error reading sensor data: Checksum did not validate. Try again.
+2023-11-09 22:38:23.267602 - Error reading sensor data: Checksum did not validate. Try again.
+2023-11-09 22:38:33.532673 - Error reading sensor data: A full buffer was not returned. Try again.
+2023-11-09 22:38:43.789920 - Error reading sensor data: A full buffer was not returned. Try again.
+2023-11-09 22:39:35.118145 - Error reading sensor data: A full buffer was not returned. Try again.
+2023-11-09 22:41:28.021231 - Error reading sensor data: A full buffer was not returned. Try again.
+2023-11-09 22:46:36.002972 - Error reading sensor data: Checksum did not validate. Try again.
+2023-11-09 22:47:27.325683 - Error reading sensor data: Checksum did not validate. Try again.
+2023-11-09 22:51:43.946217 - Error reading sensor data: A full buffer was not returned. Try again.
+2023-11-09 22:52:35.276392 - Error reading sensor data: Checksum did not validate. Try again.
+2023-11-09 22:55:40.087649 - Error reading sensor data: Checksum did not validate. Try again.
+2023-11-09 22:56:31.421298 - Error reading sensor data: A full buffer was not returned. Try again.
+2023-11-09 22:56:51.945514 - Error reading sensor data: Checksum did not validate. Try again.
+2023-11-09 22:59:15.686068 - Error reading sensor data: Checksum did not validate. Try again.
+2023-11-09 23:00:27.555205 - Error reading sensor data: A full buffer was not returned. Try again.
+2023-11-09 23:01:39.428342 - Error reading sensor data: A full buffer was not returned. Try again.
+2023-11-09 23:07:38.732405 - Error reading sensor data: Checksum did not validate. Try again.
+2023-11-09 23:11:14.314776 - Error reading sensor data: A full buffer was not returned. Try again.
+2023-11-09 23:19:06.545914 - Error reading sensor data: A full buffer was not returned. Try again.
+2023-11-09 23:19:37.338159 - Error reading sensor data: Checksum did not validate. Try again.
+2023-11-09 23:23:33.432000 - Error reading sensor data: A full buffer was not returned. Try again.
+2023-11-09 23:25:05.812248 - Error reading sensor data: A full buffer was not returned. Try again.
+2023-11-09 23:30:34.321805 - Error reading sensor data: A full buffer was not returned. Try again.
+2023-11-09 23:34:09.925003 - Error reading sensor data: A full buffer was not returned. Try again.
+2023-11-09 23:35:32.041348 - Error reading sensor data: A full buffer was not returned. Try again.
+2023-11-09 23:36:54.183725 - Error reading sensor data: Checksum did not validate. Try again.
+2023-11-09 23:37:04.451974 - Error reading sensor data: Checksum did not validate. Try again.
+2023-11-09 23:37:14.721909 - Error reading sensor data: Checksum did not validate. Try again.
+2023-11-09 23:39:58.983703 - Error reading sensor data: A full buffer was not returned. Try again.
+2023-11-09 23:41:00.569116 - Error reading sensor data: Checksum did not validate. Try again.
+2023-11-09 23:41:51.908204 - Error reading sensor data: A full buffer was not returned. Try again.
+2023-11-09 23:48:11.758651 - Error reading sensor data: A full buffer was not returned. Try again.
+2023-11-09 23:51:26.794388 - Error reading sensor data: A full buffer was not returned. Try again.
